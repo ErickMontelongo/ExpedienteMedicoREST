@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Punkid%20PC/Documents/NetBeansProjects/ExpedienteMedicoTomcat/src/java/dbAccess/Alergias.java</file>
+            <file>file:/C:/Users/Punkid%20PC/Documents/NetBeansProjects/ExpedienteMedicoTomcat/src/java/dbAccess/Archivosmedicos.java</file>
+            <file>file:/C:/Users/Punkid%20PC/Documents/NetBeansProjects/ExpedienteMedicoTomcat/src/java/dbAccess/Medico.java</file>
+            <file>file:/C:/Users/Punkid%20PC/Documents/NetBeansProjects/ExpedienteMedicoTomcat/src/java/webServices/PacienteResource.java</file>
+            <file>file:/C:/Users/Punkid%20PC/Documents/NetBeansProjects/ExpedienteMedicoTomcat/src/java/dbAccess/Sintoma.java</file>
+            <file>file:/C:/Users/Punkid%20PC/Documents/NetBeansProjects/ExpedienteMedicoTomcat/src/java/dbAccess/Hospitalizacion.java</file>
+            <file>file:/C:/Users/Punkid%20PC/Documents/NetBeansProjects/ExpedienteMedicoTomcat/src/java/webServices/ExpedienteUtilsResource.java</file>
+            <file>file:/C:/Users/Punkid%20PC/Documents/NetBeansProjects/ExpedienteMedicoTomcat/src/java/dbAccess/Especialidad.java</file>
+            <file>file:/C:/Users/Punkid%20PC/Documents/NetBeansProjects/ExpedienteMedicoTomcat/src/java/dbAccess/Historiaclinica.java</file>
+            <file>file:/C:/Users/Punkid%20PC/Documents/NetBeansProjects/ExpedienteMedicoTomcat/src/java/dbAccess/Prescripcion.java</file>
+            <file>file:/C:/Users/Punkid%20PC/Documents/NetBeansProjects/ExpedienteMedicoTomcat/src/java/dbAccess/Cirugias.java</file>
+            <file>file:/C:/Users/Punkid%20PC/Documents/NetBeansProjects/ExpedienteMedicoTomcat/src/java/dbAccess/Paciente.java</file>
+            <file>file:/C:/Users/Punkid%20PC/Documents/NetBeansProjects/ExpedienteMedicoTomcat/src/java/webServices/MedicoResource.java</file>
+            <file>file:/C:/Users/Punkid%20PC/Documents/NetBeansProjects/ExpedienteMedicoTomcat/src/java/dbAccess/Descripcionsintoma.java</file>
+            <file>file:/C:/Users/Punkid%20PC/Documents/NetBeansProjects/ExpedienteMedicoTomcat/src/java/dbAccess/Direccionpaciente.java</file>
+            <file>file:/C:/Users/Punkid%20PC/Documents/NetBeansProjects/ExpedienteMedicoTomcat/src/java/DataHolders/Permisos.java</file>
+            <file>file:/C:/Users/Punkid%20PC/Documents/NetBeansProjects/ExpedienteMedicoTomcat/src/java/dbAccess/Antecedentes.java</file>
+            <file>file:/C:/Users/Punkid%20PC/Documents/NetBeansProjects/ExpedienteMedicoTomcat/src/java/dbAccess/Instruccionesingesta.java</file>
+            <file>file:/C:/Users/Punkid%20PC/Documents/NetBeansProjects/ExpedienteMedicoTomcat/src/java/dbAccess/Toxicomanias.java</file>
+            <file>file:/C:/Users/Punkid%20PC/Documents/NetBeansProjects/ExpedienteMedicoTomcat/src/java/webServices/ApplicationConfig.java</file>
+            <file>file:/C:/Users/Punkid%20PC/Documents/NetBeansProjects/ExpedienteMedicoTomcat/src/java/dbAccess/Direcciontrabajo.java</file>
+            <file>file:/C:/Users/Punkid%20PC/Documents/NetBeansProjects/ExpedienteMedicoTomcat/src/java/dbAccess/Vacunas.java</file>
+            <file>file:/C:/Users/Punkid%20PC/Documents/NetBeansProjects/ExpedienteMedicoTomcat/src/java/dbAccess/Medicamento.java</file>
+            <file>file:/C:/Users/Punkid%20PC/Documents/NetBeansProjects/ExpedienteMedicoTomcat/src/java/dbAccess/MedicoHasPacientePK.java</file>
+            <file>file:/C:/Users/Punkid%20PC/Documents/NetBeansProjects/ExpedienteMedicoTomcat/src/java/dbAccess/Estudiosmedicos.java</file>
+            <file>file:/C:/Users/Punkid%20PC/Documents/NetBeansProjects/ExpedienteMedicoTomcat/src/java/dbAccess/Datosestudiosmedicos.java</file>
+            <file>file:/C:/Users/Punkid%20PC/Documents/NetBeansProjects/ExpedienteMedicoTomcat/src/java/dbAccess/Enfermedades.java</file>
+            <file>file:/C:/Users/Punkid%20PC/Documents/NetBeansProjects/ExpedienteMedicoTomcat/src/java/dbAccess/Resumencirugia.java</file>
+            <file>file:/C:/Users/Punkid%20PC/Documents/NetBeansProjects/ExpedienteMedicoTomcat/src/java/utils/PasswordAuthentication.java</file>
+            <file>file:/C:/Users/Punkid%20PC/Documents/NetBeansProjects/ExpedienteMedicoTomcat/src/java/dbAccess/Informacionpersonal.java</file>
+            <file>file:/C:/Users/Punkid%20PC/Documents/NetBeansProjects/ExpedienteMedicoTomcat/src/java/dbAccess/Universidad.java</file>
+            <file>file:/C:/Users/Punkid%20PC/Documents/NetBeansProjects/ExpedienteMedicoTomcat/src/java/dbAccess/MedicoHasPaciente.java</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+  <persistence-unit name="ExpedienteMedicoTomcatPU" transaction-type="RESOURCE_LOCAL">
+    <provider>org.hibernate.ejb.HibernatePersistence</provider>
+    <class>dbAccess.Descripcionsintoma</class>
+    <class>dbAccess.Paciente</class>
+    <class>dbAccess.Datosestudiosmedicos</class>
+    <class>dbAccess.Direcciontrabajo</class>
+    <class>dbAccess.Estudiosmedicos</class>
+    <class>dbAccess.Especialidad</class>
+    <class>dbAccess.Medico</class>
+    <class>dbAccess.Medicamento</class>
+    <class>dbAccess.MedicoHasPaciente</class>
+    <class>dbAccess.Prescripcion</class>
+    <class>dbAccess.Instruccionesingesta</class>
+    <class>dbAccess.Direccionpaciente</class>
+    <class>dbAccess.Sintoma</class>
+    <class>dbAccess.Universidad</class>
+    <class>dataholders.Medicamento</class>
+    <class>dataholders.Universidad</class>
+    <class>dataholders.Direcciontrabajo</class>
+    <class>dataholders.Descripcionsintoma</class>
+    <class>dataholders.Instruccionesingesta</class>
+    <class>dataholders.MedicoHasPaciente</class>
+    <class>dataholders.Estudiosmedicos</class>
+    <class>dataholders.Sintoma</class>
+    <class>dataholders.Datosestudiosmedicos</class>
+    <class>dataholders.Medico</class>
+    <class>dataholders.Especialidad</class>
+    <class>dataholders.Direccionpaciente</class>
+    <class>dataholders.Paciente</class>
+    <class>dataholders.Prescripcion</class>
+    <class>dbAccess.Resumencirugia</class>
+    <class>dbAccess.Enfermedades</class>
+    <class>dbAccess.Vacunas</class>
+    <class>dbAccess.Toxicomanias</class>
+    <class>dbAccess.Hospitalizacion</class>
+    <class>dbAccess.Informacionpersonal</class>
+    <class>dbAccess.Cirugias</class>
+    <class>dbAccess.Antecedentes</class>
+    <class>dbAccess.Archivosmedicos</class>
+    <class>dbAccess.Alergias</class>
+    <class>dbAccess.Historiaclinica</class>
+    <exclude-unlisted-classes>false</exclude-unlisted-classes>
+    <properties>
+      <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/expedientemedico?zeroDateTimeBehavior=convertToNull"/>
+      <property name="javax.persistence.jdbc.user" value="root"/>
+      <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
+      <property name="javax.persistence.jdbc.password" value="root"/>
+    </properties>
+  </persistence-unit>
+</persistence>
